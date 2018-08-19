@@ -1,0 +1,47 @@
+{
+	"basics":{
+		"name":"JAYA",
+		"role":"mean-stack",
+		"mobile":"+91 9988776655",
+		"email":"jayalakshmi3214@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+		"degree":"B.Tech(Computer Science &Engineering)",
+		"institute":"Vignan Nirula",
+		"data":["2016-20","95%"]
+	},
+	{
+		"degree":"Intermediate(MPC)",
+		"institute":"Vikas",
+		"data":["2014-16","95%"]
+	},
+	{
+		"degree":"S.S.C",
+		"institute":"Vignan Nirula",
+		"data":["2013-2014","95%"]
+	}
+
+],
+	"skills":[
+		{
+           "title":"Programming Languages",
+           "content":["python","C","Java","R Programming","C++"]
+		},
+		{
+           "title":"DataBases",
+           "content":["sql","Oracle","mysql"]
+		},
+		{
+           "title":"Web Technologies",
+           "content":["HTML","Xml","Java Script","css"]
+		},
+		{
+           "title":"Operating Systems",
+           "content":["windows","Linux","Unix"]
+		}
+	]
+}
